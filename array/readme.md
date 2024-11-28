@@ -114,11 +114,5 @@ int main() {
 
 ---
 
-## **Practice Problems**
-1. Write a program to reverse an array.
-2. Find the maximum and minimum elements in an array.
-3. Merge two sorted arrays.
-4. Rotate an array `k` times.
 
----
 __*Happy learning*__
