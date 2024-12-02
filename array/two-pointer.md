@@ -58,7 +58,7 @@ int removeElement(int* nums, int numsSize, int val) {
 bool isPalindrome(char* s) {
     int left = 0, right = strlen(s)-1;
     while(left<right){
-         if(s[left]!=s[right]){
+        if(s[left]!=s[right]){
             return false;
         }
         right--;
